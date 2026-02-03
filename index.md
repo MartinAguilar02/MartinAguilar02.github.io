@@ -1,17 +1,21 @@
 ﻿# Martinelli
-**Ingeniero en Mecatrónica | Industria 4.0**
 
-Ingeniero enfocado en automatización industrial, sistemas de control, análisis de datos y transformación digital en entornos productivos.
+**Mechatronics Engineer | Industrial Automation, Control, and Industry 4.0**
 
-## Áreas de trabajo
-- Automatización y control industrial
-- Integración hardware-software
-- Monitoreo energético y utilidades
-- Industria 4.0
+## About
+I am a Mechatronics Engineer focused on designing and improving industrial systems through automation, control, and digital integration. My work centers on connecting operational technology with data-driven decision-making to improve reliability, efficiency, and performance in production environments.
 
-## Contenido
-- [Proyectos](projects.md)
-- [Certificados](certificates.md)
+I apply an engineering approach that combines control systems, industrial monitoring, and hardware-software integration to support practical and scalable digital transformation initiatives.
+
+## Core Expertise
+- Industrial automation and control system implementation
+- Industry 4.0 strategy and digital transformation in manufacturing environments
+- Data analysis for operational performance and process optimization
+- Industrial monitoring of energy systems and utilities
+- Integration of hardware, software, and OT systems
+
+## Navigation
+- [Projects](projects.md)
+- [Certificates](certificates.md)
 - [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-sebasti%C3%A1n-aguilar-zambrano-a45427369/)
-- [Teléfono](0981962588)
-
+- Phone: +593 981962588
