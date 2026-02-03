@@ -1,7 +1,4 @@
-﻿# Martinelli
-
-**Mechatronics Engineer | Industrial Automation, Control, and Industry 4.0**
-
+﻿
 ## About
 I am a Mechatronics Engineer focused on designing and improving industrial systems through automation, control, and digital integration. My work centers on connecting operational technology with data-driven decision-making to improve reliability, efficiency, and performance in production environments.
 
